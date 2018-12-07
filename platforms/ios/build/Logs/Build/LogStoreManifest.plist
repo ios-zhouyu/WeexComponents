@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>7A64ABF4-C8B4-4C81-AA52-7479774B4E31</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7A64ABF4-C8B4-4C81-AA52-7479774B4E31.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeexDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeexDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Cleaning workspace WeexDemo with scheme WeexDemo and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>565864083.30737901</real>
+			<key>timeStoppedRecording</key>
+			<real>565864083.55207705</real>
+			<key>title</key>
+			<string>Cleaning workspace WeexDemo with scheme WeexDemo and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>7A64ABF4-C8B4-4C81-AA52-7479774B4E31</string>
+		</dict>
+		<key>D35D7A14-E8FC-44E2-9F32-66C0B1B69199</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D35D7A14-E8FC-44E2-9F32-66C0B1B69199.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeexDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeexDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Cleaning workspace WeexDemo with scheme WeexDemo and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>565862285.25931501</real>
+			<key>timeStoppedRecording</key>
+			<real>565862285.51593995</real>
+			<key>title</key>
+			<string>Cleaning workspace WeexDemo with scheme WeexDemo and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>D35D7A14-E8FC-44E2-9F32-66C0B1B69199</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
